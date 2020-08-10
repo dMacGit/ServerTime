@@ -7,6 +7,7 @@ A simple package that outputs the time of a node.js server in specific format
 - [General Info](#General-Info)
 - [Technologies](#Technologies)
 - [Setup](#Setup)
+- [Using](#Using)
 - [Status](#Status)
 
 ## General Info
