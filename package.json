@@ -1,0 +1,16 @@
+{
+  "name": "myServerTime",
+  "version": "1.0.0",
+  "description": "Outputs the time of a node.js server in specific format",
+  "main": "serverTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dMacGit/ServerTime.git"
+  },
+  "homepage": "https://github.com/dMacGit/ServerTime#readme",
+  "author": "dMacGit",
+  "license": "ISC"
+}
