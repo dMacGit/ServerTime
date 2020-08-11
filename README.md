@@ -21,7 +21,19 @@ Uses the Javascript `dateTime` module
 
 ## Setup
 
-Info to come.
+1. Run `npm install dMacGit/ServerTime` to manually add the package. 
+**OR**
+Simply add this package to your dependancies lisk in package.json file then Run `npm install` or `npm clean-install`
+``` json 
+//Config to add into your package.json file
+"dependencies": {
+    "myServerTime": "github:dMacGit/ServerTime"
+}
+```
+2. Import it as a package in your app.js file or equivalent main.js file
+``` javascript
+const constName = require('myServerTime')
+```
 
 ## Using
 
